@@ -1,6 +1,7 @@
 # DATA
 dataset='Tusimple'
 data_root = 'E:/DataSet/tusimple/test_set'
+# data_root = 'E:/DataSet/tusimple/train_set'
 
 # TRAIN
 epoch = 100
